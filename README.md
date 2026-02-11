@@ -182,3 +182,8 @@ Commercial licensing to be defined.
 FutureYou aims to **democratize health reasoning**—helping ordinary people understand how daily habits shape their future health, *before* serious problems appear.
 
 > **We don’t tell people what to do. We help them see clearly.**
+
+## 🌐 Live Demo
+
+**Live Demo:** https://futureyou-v21.vercel.app
+
